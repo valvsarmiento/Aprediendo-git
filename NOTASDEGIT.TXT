@@ -12,3 +12,5 @@ commit -m "mensajer" : crear punto de guardado
 
  git config --global user.email "you@example.com"
   git config --global user.name "Your Name"
+
+git log:  informacion de tipeo del commit
