@@ -1,0 +1,14 @@
+Comando init: nos sirve para inicializar un repositorio, SI ESTE ESTA VACIO. (CARPRETA VACIA)
+
+Rutina de guardado: comando para guardar archivos
+
+1 status: nos muestra el estado de la rama de trabajo
+
+2 add . : nos agrega los archivos a la rama de trabajo (los agrega al carrito)
+
+SIEMPRE USAR PREFIJO GIT PARA LOS COMANDOS 
+
+commit -m "mensajer" : crear punto de guardado 
+
+ git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
